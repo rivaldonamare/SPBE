@@ -22,3 +22,4 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/dashboard', [App\Http\Controllers\DashboardController::class, 'index'])->name('dashboard');
 Route::get('/tugaspenilaianmandiri', [App\Http\Controllers\TugaspenilaianmandiriController::class, 'index'])->name('tugaspenilaianmandiri');
+Route::get('/bantuanpengisian', [App\Http\Controllers\BantuanpengisianController::class, 'index'])->name('bantuanpengisian');

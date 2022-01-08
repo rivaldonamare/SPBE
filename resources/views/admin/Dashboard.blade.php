@@ -126,7 +126,7 @@
                             </a>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="basic-table.html"
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="bantuanpengisian"
                                 aria-expanded="false">
                                 <i class="fas fa-question" aria-hidden="true"></i>
                                 <span class="hide-menu">Bantuan Pengisian</span>
